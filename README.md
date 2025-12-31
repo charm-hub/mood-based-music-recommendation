@@ -1,5 +1,10 @@
-# 🎵 Mood-Based Music Recommendation System
+## ⚠️ Note on GitHub Rendering
+This notebook uses `ipywidgets` for interactive UI.
+GitHub does not support rendering widget state, so a rendering warning may appear.
+✅ The notebook works correctly when opened in Google Colab.
 
+
+# 🎵 Mood-Based Music Recommendation System
 This project recommends songs based on the user's selected mood using Spotify audio features.
 
 Features
